@@ -1,5 +1,5 @@
 # do not use "latest" here, if you want this to work in the future
-image: docker:19
+image: docker:22
 
 services:
   - docker:dind
